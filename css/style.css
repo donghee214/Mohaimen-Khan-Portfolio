@@ -1,0 +1,15 @@
+body{
+	background-image: url("mainBackground.jpg");
+	background-size: 1500px 800px;
+}
+h1.middle{
+	padding-left: 16em;
+	color: #00FFFF;
+	text-shadow: 2px 2px #000000;
+}
+h1.right{
+	padding-right: 80em;
+}
+h1.name{
+	
+}
